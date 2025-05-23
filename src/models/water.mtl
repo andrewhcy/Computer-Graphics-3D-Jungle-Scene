@@ -1,0 +1,12 @@
+# Blender 3.3.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Material.001
+Ns 0.77
+Ka 0.55294 0.49020 0.28627
+Kd 0.28627 0.21961 0.00392
+Ks 0.500000 0.500000 0.500000
+Ni 1.33
+d 0.1
+illum 0
+Tr 0.200000
